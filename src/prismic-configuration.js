@@ -1,6 +1,7 @@
 export default {
 
-  apiEndpoint: 'https://reactjs-scratch.prismic.io/api/v2',
+  apiEndpoint: 'https://reactjs-scratch.cdn.prismic.io/api/v2',
+  
 
   // -- Access token if the Master is not open
   // accessToken: 'xxxxxx',
